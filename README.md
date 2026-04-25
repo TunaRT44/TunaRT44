@@ -1,8 +1,7 @@
 <div align="center"><br><br><br><br><br>
-  <h1> เมี๊ยว </h1>
-  ✨✨ ผมชื่อ Tuna งับ ✨✨<br>
-  (ชื่อสมมติ)
-  <p><br>ล้อเล่นคับ ผมชื่อ ชนชัย / Chanachai</p>
+  <h1>เมี๊ยว!</h1>
+  ✨✨ ผมชื่อ <b>Tuna</b> งับ ✨✨<br>
+  <p><br>ล้อเล่นคับ ผมชื่อ <b>"ชนชัย"</b> / <b>"Chanachai"</b> <br> ชื่อเล่น <b>"ไตเติ้ล"</b> / <b>"Title"</b></p>
 </div>
 
 <div align="center">
