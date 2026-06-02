@@ -1,4 +1,4 @@
-[![GIF](https://lh3.googleuesercontent.com/1u0vXPce9jfIQg-AYxD1yapAtVWsU4Ln8/view?usp=drivesdk)]
+![GIF](https://lh3.googleusercontent.com/d/1u0vXPce9jfIQg-AYxD1yapAtVWsU4Ln8)
 <div align="center"><br><br><br><br><br>
   <h1>เมี๊ยว!</h1>
   ✨✨ ผมชื่อ <b>Tuna</b> งับ ✨✨<br>
