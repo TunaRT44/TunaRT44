@@ -1,3 +1,4 @@
+<!-- ไวก่อนเดียวค่อยแก้ -->
 ![GIF](htt/ps://lh3.googleusercontent.com/d/1u0vXPce9jfIQg-AYxD1yapAtVWsU4Ln8)
 <div align="center"><br><br><br><br><br>
   <h1>เมี๊ยว!</h1>
@@ -11,4 +12,5 @@
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chanachai_chakan)
 </div>
 
+<!-- ARG เล่นๆ -->
 https://lh3.googleusercontent.com/d/1Ma2NnEP09j_kZIUyLcItCE3w456YSjpe
